@@ -1,3 +1,0 @@
-myproject/
-Dockerrun.aws.json
-.DS_Store
